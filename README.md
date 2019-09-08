@@ -1,5 +1,5 @@
 # Parallels Tools fix for Kali linux 2019.3 and previous version
-# 한국어 버전 -> ![README-kor.md]() 
+# [한국어 버전](https://github.com/scadasystems/Parralles-tools-fix-kali-linux/blob/master/README-kor.md)
 
 ## Parallels tools Setup
 First update Kali Linux environment to the latest version. Copy and execute the following commands one by one:
